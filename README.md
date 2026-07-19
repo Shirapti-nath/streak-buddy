@@ -2,6 +2,8 @@
 
 Small CLI to track daily practice streaks locally.
 
+![CI](https://github.com/Shirapti-nath/streak-buddy/actions/workflows/ci.yml/badge.svg)
+
 Usage:
 
 - Mark today as practiced:
